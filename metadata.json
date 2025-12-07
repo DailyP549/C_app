@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NCERT AI Tutor",
+  "description": "An intelligent e-learning platform where students upload local PDF textbooks (like NCERT 6th Std) and receive structured AI-generated answers based specifically on the uploaded content.",
+  "requestFramePermissions": []
+}
